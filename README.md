@@ -137,7 +137,7 @@ We welcome contributions from the community! Here's how to get involved:
 ### Enterprise Support
 
 Need dedicated support, SLA, or custom features?
-- Email: enterprise@tfgrid.studio
+- Contact: [Open a Discussion](https://github.com/orgs/tfgrid-studio/discussions) with "Enterprise" tag
 - See: [Enterprise Plans](https://tfgrid.studio#pricing)
 
 ---
