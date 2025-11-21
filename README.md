@@ -120,6 +120,7 @@ We welcome contributions from the community! Here's how to get involved:
 
 ### Learn More
 - [Architecture](https://docs.tfgrid.studio/architecture/overview) - How it works
+- [Platform Map](https://docs.tfgrid.studio/architecture/platform-map) - How all repos and products fit together
 - [Deployment Patterns](https://docs.tfgrid.studio/patterns/overview) - All 3 patterns explained
 - [AI Agent Guide](https://docs.tfgrid.studio/applications/tfgrid-ai-agent) - Our flagship app
 
