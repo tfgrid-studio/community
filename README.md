@@ -37,37 +37,41 @@ This is the home for **TFGrid Studio community discussions**. Use GitHub Discuss
 ### Deploy Your First App
 
 ```bash
-# Install TFGrid Compose
-git clone https://github.com/tfgrid-studio/tfgrid-compose
-cd tfgrid-compose
-make install
+# Install TFGrid Compose (one-line)
+curl -sSL install.tfgrid.studio/install.sh | sh
 
-# Deploy the AI Agent (2 minutes!)
+# Deploy WordPress interactively
+tfgrid-compose up tfgrid-wordpress -i
+
+# Or deploy any of our 6 production apps
+tfgrid-compose up tfgrid-nextcloud -i
+tfgrid-compose up tfgrid-erpnext -i
 tfgrid-compose up tfgrid-ai-agent
-
-# You're live! 
 ```
 
 ---
 
 ## TFGrid Studio Ecosystem
 
-### Production-Ready (v2.0.0)
+### Core Platform
 
 | Repository | Description | Status |
 |------------|-------------|--------|
-| [tfgrid-compose](https://github.com/tfgrid-studio/tfgrid-compose) | Main CLI tool - Deploy anything with one command | Production Ready |
-| [tfgrid-ai-agent](https://github.com/tfgrid-studio/tfgrid-ai-agent) | AI coding environment (Qwen integration) | Production Ready |
-| [tfgrid-docs](https://github.com/tfgrid-studio/tfgrid-docs) | Complete documentation | Live |
-| [tfgrid-www](https://github.com/tfgrid-studio/tfgrid-www) | Marketing website | Live |
+| [tfgrid-compose](https://github.com/tfgrid-studio/tfgrid-compose) | Main CLI tool - Deploy anything with one command | ✅ Production Ready |
+| [tfgrid-docs](https://github.com/tfgrid-studio/tfgrid-docs) | Complete documentation | ✅ Live |
+| [tfgrid-www](https://github.com/tfgrid-studio/tfgrid-www) | Marketing website | ✅ Live |
+| [app-registry](https://github.com/tfgrid-studio/app-registry) | Official app registry | ✅ Active |
 
-### Coming Soon
+### Production Apps (6 Available)
 
-| Repository | Description | Timeline |
-|------------|-------------|----------|
-| tfgrid-web | Web dashboard (SaaS) | Q4 2025 |
-| tfgrid-marketplace | App marketplace | Q1 2026 |
-| tfgrid-enterprise | Enterprise features | Custom |
+| App | Description | Status |
+|-----|-------------|--------|
+| [tfgrid-wordpress](https://github.com/tfgrid-studio/tfgrid-wordpress) | WordPress + Caddy + MariaDB | ✅ **New** |
+| [tfgrid-nextcloud](https://github.com/tfgrid-studio/tfgrid-nextcloud) | Nextcloud All-in-One cloud platform | ✅ **New** |
+| [tfgrid-erpnext](https://github.com/tfgrid-studio/tfgrid-erpnext) | ERPNext business ERP system | ✅ **New** |
+| [tfgrid-ai-agent](https://github.com/tfgrid-studio/tfgrid-ai-agent) | AI coding assistant | ✅ Production |
+| [tfgrid-ai-stack](https://github.com/tfgrid-studio/tfgrid-ai-stack) | AI + Git + Gateway stack | ✅ Production |
+| [tfgrid-gitea](https://github.com/tfgrid-studio/tfgrid-gitea) | Self-hosted Git service | ✅ Production |
 
 ---
 
