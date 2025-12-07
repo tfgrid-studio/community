@@ -134,16 +134,21 @@ We welcome contributions from the community! Here's how to get involved:
 
 ### Getting Help
 
-1. **Check the docs first:** [docs.tfgrid.studio](https://docs.tfgrid.studio)
-2. **Ask in Discussions:** [github.com/orgs/tfgrid-studio/discussions](https://github.com/orgs/tfgrid-studio/discussions)
-3. **Found a bug?** Open an issue in the relevant repository
-4. **Security issue?** See [SECURITY.md](./SECURITY.md)
+1. **📚 Documentation:** [docs.tfgrid.studio](https://docs.tfgrid.studio)
+2. **💬 Discussions:** [GitHub Discussions](https://github.com/orgs/tfgrid-studio/discussions)
+3. **🐛 Bug Reports:** Open an issue in the relevant repository
+4. **🔒 Security Issues:** [security@tfgrid.studio](mailto:security@tfgrid.studio)
 
-### Enterprise Support
+### Contact Us
 
-Need dedicated support, SLA, or custom features?
-- Contact: [Open a Discussion](https://github.com/orgs/tfgrid-studio/discussions) with "Enterprise" tag
-- See: [Enterprise Plans](https://tfgrid.studio#pricing)
+| Email | Purpose |
+|-------|---------|
+| [contact@tfgrid.studio](mailto:contact@tfgrid.studio) | General inquiries |
+| [support@tfgrid.studio](mailto:support@tfgrid.studio) | Technical support |
+| [enterprise@tfgrid.studio](mailto:enterprise@tfgrid.studio) | Enterprise sales, SLA, custom deployments |
+| [security@tfgrid.studio](mailto:security@tfgrid.studio) | Security vulnerabilities |
+
+**Full contact details:** [tfgrid.studio/contact](https://tfgrid.studio/contact)
 
 ---
 
