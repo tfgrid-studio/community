@@ -60,7 +60,7 @@ tfgrid-compose up tfgrid-ai-agent
 | [tfgrid-compose](https://github.com/tfgrid-studio/tfgrid-compose) | Main CLI tool - Deploy anything with one command | ✅ Production Ready |
 | [tfgrid-docs](https://github.com/tfgrid-studio/tfgrid-docs) | Complete documentation | ✅ Live |
 | [tfgrid-website](https://github.com/tfgrid-studio/tfgrid-website) | Marketing website | ✅ Live |
-| [app-registry](https://github.com/tfgrid-studio/app-registry) | Official app registry | ✅ Active |
+| [tfgrid-registry](https://github.com/tfgrid-studio/tfgrid-registry) | Official app registry | ✅ Active |
 
 ### Production Apps (6 Available)
 
